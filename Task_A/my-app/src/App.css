@@ -38,5 +38,24 @@
 }
 
 #input {
-    margin-top: 50px;
+    align-items: center;
+    margin: 50px 50px;
+    display: flex;
+    flex-direction: column; 
 }
+
+#title {
+    margin: 50px 50px;
+}
+
+#blank {
+    width: 500px;
+    height: 20px;
+}
+
+#submit {
+    width: 500px;
+    height: 100px;
+}
+
+
